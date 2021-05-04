@@ -121,7 +121,7 @@
   },
   "declensions": {
     "en": "Declension",
-    "isv": "Sklonjenje",
+    "isv": "Sklonjeńje",
     "ru": "Склонение",
     "uk": "Відмінювання",
     "be": "Скланенне",
@@ -136,7 +136,7 @@
   },
   "conjugation": {
     "en": "Conjugation",
-    "isv": "Spreženje",
+    "isv": "Spręžeńje",
     "ru": "Спряжение",
     "uk": "Дієвідміна",
     "be": "Спражэнне",
@@ -226,7 +226,7 @@
   },
   "searchTypeBegin": {
     "en": "Begin",
-    "isv": "Počatok",
+    "isv": "Početok",
     "ru": "Начало",
     "uk": "Початок",
     "be": "Пачаток",
@@ -721,7 +721,7 @@
   },
   "standardOrthography": {
     "en": "Standard orthography",
-    "isv": "Standartny pravopis",
+    "isv": "Standardny pravopis",
     "ru": "Стандартное правописание",
     "uk": "Стандартний правопис",
     "be": "Стандартнае правапісанне",
@@ -2387,7 +2387,7 @@
   },
   "flavStandard": {
     "en": "Standard",
-    "isv": "Standartny",
+    "isv": "Standardny",
     "ru": "Стандартное",
     "uk": "Стандартний",
     "be": "Стандартнае",
