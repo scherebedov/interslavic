@@ -263,7 +263,7 @@ discutir
 !cristiano
 !Aparecer
 distribución
-!diácono
+diácono
 !lino
 !algo más
 !izquierda
@@ -4863,11 +4863,11 @@ consulado
 !últimos años
 !el año pasado
 !el penúltimo año
-!Virgen
+virgen
 !inocencia, castidad
-!virginidad
+virginidad
 !virgen (macho sin experiencia sexual)
-!Islas Virgenes
+Islas Vírgenes
 !de nuevo, una vez más,
 !repetida, otro
 !de nuevo, sobre, otra vez, de nuevo
@@ -5268,7 +5268,7 @@ piel roja
 !una décima
 !bebé, niño
 !infantilmente
-!Virgen
+virgen
 !aliento
 !desconocido
 abuelo
@@ -6948,7 +6948,7 @@ humanidad
 !pesimista
 !impuesto, tributo
 !salvaje, rambunctious
-!salvajemente
+salvajemente
 !desenfreno
 !salvajemente
 !salvaje, rambunctious
@@ -9218,7 +9218,7 @@ Budapest
 !delicado
 !deliric
 !detallado
-!desinformación
+desinformación
 !añadir
 !bajo sorabo
 !inferior, parte inferior
@@ -12461,12 +12461,12 @@ división
 !lema
 !niña
 !devoniano
-!virginidad
-!desertor
-!Desierto
-!desinfección
-!desinfectar
-!control de plagas
+virginidad
+desertor
+desierto
+desinfección
+desinfectar
+control de plagas
 !amasado a través
 !de guardia
 !diamante
@@ -14594,11 +14594,11 @@ fatal
 !pudín
 langosta
 !estrangular
-!deber
+deber
 !quemar
 !soñoliento
 !somnolencia
-!Diarrea
+diarrea
 !intercontinental
 !interestelar
 !interurbano
@@ -14703,7 +14703,7 @@ secretario general
 !hilo
 !diagnóstico
 !anamnesia
-!diagnóstico
+diagnóstico
 !síntoma
 !compra
 !compra
@@ -16780,7 +16780,7 @@ atractivo
 folklórico
 !conceder
 !globalizado, globalizado
-!diagrama,
+diagrama,
 !luterano
 !multicultural
 !Musulmanes, musulmanes
@@ -16928,7 +16928,7 @@ parámetro
 !imperial, zarista
 !declaim, recitar
 dialéctico
-!diacrónico
+diacrónico
 distanciarse
 fonética
 !léxico
