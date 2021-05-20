@@ -5892,7 +5892,7 @@ ag-grid, ag-grid-angular, ag-grid-ng2, ag-grid-polymer, ag-grid-aurelia {
 
 .checkbox{display:inline-flex;margin:0 8px 8px 0;align-items:center;height:18px}.checkbox__input{position:absolute;opacity:0}.checkbox__box{width:16px;height:16px;line-height:16px;cursor:pointer;transition:background-color .1s ease-in-out;border-radius:var(--border-radius-s);background:var(--primary-color);border:var(--border);margin-right:var(--gap-size-s);box-shadow:var(--shadow)}.checkbox__label{display:flex;align-items:center}.checkbox .disabled .checkbox__box{background:var(--light-gray-color)}
 
-.viewer-pos-filter{width:200px;padding:var(--gap-size-s) var(--gap-size-s) 0}.viewer-pos-filter__list{margin-top:var(--gap-size-s);display:flex;flex-direction:column}.viewer-pos-filter__sub-list{padding-left:var(--gap-size-s);display:flex;flex-direction:column}
+.viewer-pos-filter{width:200px;padding:var(--gap-size-s) var(--gap-size-s) 0}.viewer-pos-filter__list{margin-top:var(--gap-size-s);display:flex;flex-direction:column}.viewer-pos-filter__line{display:flex;justify-content:space-between}.viewer-pos-filter__expand-btn{cursor:pointer}.viewer-pos-filter__expand-btn.expanded{transform:rotate(180deg)}.viewer-pos-filter__sub-list{padding-left:var(--gap-size-s);display:flex;flex-direction:column;height:0;opacity:0}.viewer-pos-filter__sub-list.expanded{height:auto;opacity:1}
 
 .spinner{display:inline-block;vertical-align:text-bottom;border-color:var(--primary-color);border-style:solid;border-right-color:transparent;border-radius:50%;-webkit-animation:spinner-animation .75s linear infinite;animation:spinner-animation .75s linear infinite}@-webkit-keyframes spinner-animation{to{transform:rotate(360deg)}}@keyframes spinner-animation{to{transform:rotate(360deg)}}
 
